@@ -1,0 +1,238 @@
+New bike is received by Station Jingmei.
+New bike is received by Station Jingmei.
+New bike is received by Station Jingmei.
+New bike is received by Station Jingmei.
+New bike is received by Station Jingmei.
+New bike is received by Station Jingmei.
+                       Jingmei
+                    Free Bikes
+        License        Mileage          Class       SubTotal
+============================================================
+          00006              6       Electric
+          00004              4       Electric
+          00005              5       Electric
+          00001              1       Electric
+          00003              3       Electric
+          00002              2       Electric
+============================================================
+                                                           6
+
+                  Rented Bikes
+        License        Mileage          Class       SubTotal
+============================================================
+============================================================
+                                                           0
+
+         Net    Electric        Lady        Road      Hybrid
+============================================================
+           0           6           0           0           0
+============================================================
+
+Bike 00001 is deleted from Jingmei.
+Bike 00002 is deleted from Jingmei.
+Bike 00003 is deleted from Jingmei.
+                       Jingmei
+                    Free Bikes
+        License        Mileage          Class       SubTotal
+============================================================
+          00006              6       Electric
+          00004              4       Electric
+          00005              5       Electric
+============================================================
+                                                           3
+
+                  Rented Bikes
+        License        Mileage          Class       SubTotal
+============================================================
+============================================================
+                                                           0
+
+         Net    Electric        Lady        Road      Hybrid
+============================================================
+           0           3           0           0           0
+============================================================
+
+New bike is received by Station Jingmei.
+New bike is received by Station Jingmei.
+New bike is received by Station Jingmei.
+                       Jingmei
+                    Free Bikes
+        License        Mileage          Class       SubTotal
+============================================================
+          00006              6       Electric
+          00004              4       Electric
+          00005              5       Electric
+          00001              1       Electric
+          00002              2       Electric
+          00003              3       Electric
+============================================================
+                                                           6
+
+                  Rented Bikes
+        License        Mileage          Class       SubTotal
+============================================================
+============================================================
+                                                           0
+
+         Net    Electric        Lady        Road      Hybrid
+============================================================
+           0           6           0           0           0
+============================================================
+
+Bike 00004 is deleted from Jingmei.
+Bike 00005 is deleted from Jingmei.
+Bike 00006 is deleted from Jingmei.
+                       Jingmei
+                    Free Bikes
+        License        Mileage          Class       SubTotal
+============================================================
+          00003              3       Electric
+          00001              1       Electric
+          00002              2       Electric
+============================================================
+                                                           3
+
+                  Rented Bikes
+        License        Mileage          Class       SubTotal
+============================================================
+============================================================
+                                                           0
+
+         Net    Electric        Lady        Road      Hybrid
+============================================================
+           0           3           0           0           0
+============================================================
+
+New bike is received by Station Jingmei.
+New bike is received by Station Jingmei.
+New bike is received by Station Jingmei.
+                       Jingmei
+                    Free Bikes
+        License        Mileage          Class       SubTotal
+============================================================
+          00003              3       Electric
+          00005              2       Electric
+          00006              3       Electric
+          00004              1       Electric
+          00001              1       Electric
+          00002              2       Electric
+============================================================
+                                                           6
+
+                  Rented Bikes
+        License        Mileage          Class       SubTotal
+============================================================
+============================================================
+                                                           0
+
+         Net    Electric        Lady        Road      Hybrid
+============================================================
+           0           6           0           0           0
+============================================================
+
+A bike is rented from Jingmei.
+A bike is rented from Jingmei.
+A bike is rented from Jingmei.
+Bike FUCK0 does not belong to our company.
+Bike 00006 is now being rented.
+Bike 00001 is transferred to Jingmei.
+                       Jingmei
+                    Free Bikes
+        License        Mileage          Class       SubTotal
+============================================================
+          00002              2       Electric
+          00004              1       Electric
+          00001              1       Electric
+============================================================
+                                                           3
+
+                  Rented Bikes
+        License        Mileage          Class       SubTotal
+============================================================
+          00003              3       Electric
+          00006              3       Electric
+          00005              2       Electric
+============================================================
+                                                           3
+
+         Net    Electric        Lady        Road      Hybrid
+============================================================
+           0           6           0           0           0
+============================================================
+
+Rental charge for this bike is 3999880.
+Rental charge for this bike is 493720.
+Bike 00004 is deleted from Jingmei.
+Bike 00005 is deleted from Jingmei.
+Bike 00006 is deleted from Jingmei.
+New bike is received by Station Hongshulin.
+New bike is received by Station Hongshulin.
+New bike is received by Station Hongshulin.
+                    Hongshulin
+                    Free Bikes
+        License        Mileage          Class       SubTotal
+============================================================
+          00009              9       Electric
+          00007              7       Electric
+          00008              8       Electric
+============================================================
+                                                           3
+
+                  Rented Bikes
+        License        Mileage          Class       SubTotal
+============================================================
+============================================================
+                                                           0
+
+         Net    Electric        Lady        Road      Hybrid
+============================================================
+           0           3           0           0           0
+============================================================
+
+No free bike available.
+No free bike available.
+        License        Mileage          Class        Station
+============================================================
+          00007              7       Electric     Hongshulin
+
+        License        Mileage          Class        Station
+============================================================
+          00008              8       Electric     Hongshulin
+
+        License        Mileage          Class        Station
+============================================================
+          00001              1       Electric        Jingmei
+
+Jingmei
+===============
+Electric 4493600
+Lady 0
+Road 0
+Hybrid 0
+===============
+Total 4493600
+
+                 Taipei U-bike
+                    Free Bikes
+     License     Mileage       Class     Station       Total
+============================================================
+       00009           9    Electric  Hongshulin
+       00007           7    Electric  Hongshulin
+       00008           8    Electric  Hongshulin
+       00002           2    Electric     Jingmei
+       00001           1    Electric     Jingmei
+============================================================
+                                                           5
+
+                  Rented Bikes
+     License     Mileage       Class     Station       Total
+============================================================
+       00003           3    Electric     Jingmei
+============================================================
+                                                           1
+
+         Net    Electric        Lady        Road      Hybrid
+============================================================
+     4493600           6           0           0           0
+============================================================
+

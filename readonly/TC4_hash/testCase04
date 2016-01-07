@@ -1,0 +1,38 @@
+NewBike Lady 00001 1 Jingmei
+NewBike Electric 00002 2 Jingmei
+NewBike Electric 00003 3 Jingmei
+NewBike Electric 00004 4 Jingmei
+NewBike Lady 00005 5 Danshui
+NewBike Lady 00006 6 Danshui
+NewBike Lady 0A001 7 Jingmei
+HashReport
+NewBike Electric 0A002 8 Jingmei
+NewBike Electric 0A003 9 Jingmei
+NewBike Electric 0A004 10 Jingmei
+NewBike Lady 0A005 11 Danshui
+NewBike Lady 0A006 12 Danshui
+HashReport
+NewBike Lady 0ABC1 13 Jingmei
+NewBike Electric 0ABC2 14 Jingmei
+NewBike Electric 0ABC3 15 Jingmei
+NewBike Electric 0ABC4 16 Jingmei
+NewBike Lady 0ABC5 17 Danshui
+HashReport
+NewBike Lady 0ABC6 18 Danshui
+HashReport
+JunkIt 00004
+JunkIt 00001
+JunkIt 00006
+JunkIt 0A004
+HashReport
+JunkIt 0ABC1
+JunkIt 0A006
+JunkIt 0ABC4
+HashReport
+JunkIt 0A001
+JunkIt 0ABC6
+StationReport Danshui
+StationReport Jingmei
+UbikeReport
+NetSearch Danshui
+HashReport

@@ -1,0 +1,134 @@
+New bike is received by Station Jingmei.
+New bike is received by Station Jingmei.
+New bike is received by Station Jingmei.
+New bike is received by Station Jingmei.
+New bike is received by Station Danshui.
+New bike is received by Station Danshui.
+New bike is received by Station Jingmei.
+Hash Table
+0 00001->00002->00003->00004->00005->00006
+34 0A001
+New bike is received by Station Jingmei.
+New bike is received by Station Jingmei.
+New bike is received by Station Jingmei.
+New bike is received by Station Danshui.
+New bike is received by Station Danshui.
+Hash Table
+0 00001->00002->00003->00004->00005->00006
+34 0A001->0A002->0A003->0A004->0A005->0A006
+New bike is received by Station Jingmei.
+New bike is received by Station Jingmei.
+New bike is received by Station Jingmei.
+New bike is received by Station Jingmei.
+New bike is received by Station Danshui.
+Hash Table
+0 00001->00002->00003->00004->00005->00006
+34 0A001->0A002->0A003->0A004->0A005->0A006
+45 0ABC1->0ABC2->0ABC3->0ABC4->0ABC5
+New bike is received by Station Danshui.
+Hash Table
+0 00001->00002->00003->00004->00005->00006
+34 0A001->0A002->0A003->0A004->0A005->0A006
+45 0ABC1->0ABC2->0ABC3->0ABC4->0ABC5->0ABC6
+Bike 00004 is deleted from Jingmei.
+Bike 00001 is deleted from Jingmei.
+Bike 00006 is deleted from Danshui.
+Bike 0A004 is deleted from Jingmei.
+Hash Table
+0 00002->00003->00005
+34 0A001->0A002->0A003->0A005->0A006
+45 0ABC1->0ABC2->0ABC3->0ABC4->0ABC5->0ABC6
+Bike 0ABC1 is deleted from Jingmei.
+Bike 0A006 is deleted from Danshui.
+Bike 0ABC4 is deleted from Jingmei.
+Hash Table
+0 00002->00003->00005
+34 0A001->0A002->0A003->0A005
+45 0ABC2->0ABC3->0ABC5->0ABC6
+Bike 0A001 is deleted from Jingmei.
+Bike 0ABC6 is deleted from Danshui.
+                       Danshui
+                    Free Bikes
+        License        Mileage          Class       SubTotal
+============================================================
+          0ABC5             17           Lady
+          0A005             11           Lady
+          00005              5           Lady
+============================================================
+                                                           3
+
+                  Rented Bikes
+        License        Mileage          Class       SubTotal
+============================================================
+============================================================
+                                                           0
+
+         Net    Electric        Lady        Road      Hybrid
+============================================================
+           0           0           3           0           0
+============================================================
+
+                       Jingmei
+                    Free Bikes
+        License        Mileage          Class       SubTotal
+============================================================
+          0ABC3             15       Electric
+          0ABC2             14       Electric
+          0A003              9       Electric
+          00002              2       Electric
+          0A002              8       Electric
+          00003              3       Electric
+============================================================
+                                                           6
+
+                  Rented Bikes
+        License        Mileage          Class       SubTotal
+============================================================
+============================================================
+                                                           0
+
+         Net    Electric        Lady        Road      Hybrid
+============================================================
+           0           6           0           0           0
+============================================================
+
+                 Taipei U-bike
+                    Free Bikes
+     License     Mileage       Class     Station       Total
+============================================================
+       0ABC5          17        Lady     Danshui
+       0A005          11        Lady     Danshui
+       00005           5        Lady     Danshui
+       0ABC3          15    Electric     Jingmei
+       0ABC2          14    Electric     Jingmei
+       0A003           9    Electric     Jingmei
+       00002           2    Electric     Jingmei
+       0A002           8    Electric     Jingmei
+       00003           3    Electric     Jingmei
+============================================================
+                                                           9
+
+                  Rented Bikes
+     License     Mileage       Class     Station       Total
+============================================================
+============================================================
+                                                           0
+
+         Net    Electric        Lady        Road      Hybrid
+============================================================
+           0           6           3           0           0
+============================================================
+
+Danshui
+===============
+Electric 0
+Lady 0
+Road 0
+Hybrid 0
+===============
+Total 0
+
+Hash Table
+0 00002->00003->00005
+34 0A002->0A003->0A005
+45 0ABC2->0ABC3->0ABC5

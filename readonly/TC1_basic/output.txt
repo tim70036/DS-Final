@@ -1,0 +1,480 @@
+New bike is received by Station Jingmei.
+New bike is received by Station Jingmei.
+New bike is received by Station Xinpu.
+New bike is received by Station Jingmei.
+New bike is received by Station Xinpu.
+New bike is received by Station Xinpu.
+New bike is received by Station Jingmei.
+New bike is received by Station Jingmei.
+New bike is received by Station Jingmei.
+New bike is received by Station Jingmei.
+New bike is received by Station Danshui.
+New bike is received by Station Danshui.
+New bike is received by Station Liuzhangli.
+New bike is received by Station Liuzhangli.
+New bike is received by Station Liuzhangli.
+New bike is received by Station Liuzhangli.
+New bike is received by Station Liuzhangli.
+New bike is received by Station Liuzhangli.
+New bike is received by Station Liuzhangli.
+New bike is received by Station Liuzhangli.
+New bike is received by Station Liuzhangli.
+New bike is received by Station Muzha.
+New bike is received by Station Muzha.
+New bike is received by Station Muzha.
+New bike is received by Station Muzha.
+New bike is received by Station Muzha.
+New bike is received by Station Muzha.
+New bike is received by Station Muzha.
+New bike is received by Station Muzha.
+New bike is received by Station Muzha.
+New bike is received by Station Guting.
+New bike is received by Station Guting.
+New bike is received by Station Guting.
+New bike is received by Station Guting.
+New bike is received by Station Guting.
+New bike is received by Station Guting.
+New bike is received by Station Guting.
+New bike is received by Station Guting.
+New bike is received by Station Guting.
+New bike is received by Station Guting.
+New bike is received by Station Danshui.
+New bike is received by Station Danshui.
+New bike is received by Station Hongshulin.
+New bike is received by Station Hongshulin.
+New bike is received by Station Beitou.
+New bike is received by Station Beitou.
+New bike is received by Station Shilin.
+New bike is received by Station Shilin.
+New bike is received by Station Zhongshan.
+New bike is received by Station Zhongshan.
+New bike is received by Station Xinpu.
+New bike is received by Station Xinpu.
+New bike is received by Station Ximen.
+New bike is received by Station Ximen.
+New bike is received by Station Liuzhangli.
+New bike is received by Station Liuzhangli.
+New bike is received by Station Guting.
+New bike is received by Station Guting.
+New bike is received by Station Gongguan.
+New bike is received by Station Gongguan.
+Bike 01DAN is transferred to Jingmei.
+Bike 01HON is transferred to Jingmei.
+Bike 01BEI is transferred to Jingmei.
+Bike 01SHI is transferred to Jingmei.
+Bike 01ZHO is transferred to Jingmei.
+Bike 01XIN is transferred to Jingmei.
+Bike 01XIM is transferred to Jingmei.
+Bike 01LIU is transferred to Jingmei.
+Bike 01GUT is transferred to Jingmei.
+Bike 01GON is transferred to Jingmei.
+Bike 00006 does not belong to our company.
+Bike 00007 does not belong to our company.
+Bike NTHU1 is deleted from Jingmei.
+Bike Q09CC is deleted from Guting.
+A bike is rented from Jingmei.
+A bike is rented from Jingmei.
+A bike is rented from Jingmei.
+A bike is rented from Jingmei.
+A bike is rented from Jingmei.
+A bike is rented from Jingmei.
+A bike is rented from Jingmei.
+A bike is rented from Jingmei.
+A bike is rented from Jingmei.
+A bike is rented from Jingmei.
+A bike is rented from Jingmei.
+A bike is rented from Jingmei.
+A bike is rented from Danshui.
+A bike is rented from Guting.
+A bike is rented from Guting.
+A bike is rented from Guting.
+A bike is rented from Guting.
+A bike is rented from Guting.
+A bike is rented from Muzha.
+A bike is rented from Muzha.
+A bike is rented from Muzha.
+A bike is rented from Muzha.
+A bike is rented from Muzha.
+Bike 01DAN is now being rented.
+Bike 01HON is now being rented.
+Bike 01BEI is now being rented.
+Bike 01SHI is now being rented.
+Bike 01ZHO is now being rented.
+Bike 01XIN is now being rented.
+Bike 01XIM is now being rented.
+Bike 01LIU is now being rented.
+Bike 01GUT is now being rented.
+Bike 01GON is now being rented.
+Rental charge for this bike is 175.
+Rental charge for this bike is 175.
+Rental charge for this bike is 175.
+Rental charge for this bike is 175.
+Rental charge for this bike is 175.
+Rental charge for this bike is 175.
+Rental charge for this bike is 175.
+Rental charge for this bike is 175.
+Rental charge for this bike is 175.
+Rental charge for this bike is 175.
+Rental charge for this bike is 11000.
+Rental charge for this bike is 11000.
+Rental charge for this bike is 11000.
+Rental charge for this bike is 11000.
+Rental charge for this bike is 15000.
+Rental charge for this bike is 15000.
+Rental charge for this bike is 15000.
+Rental charge for this bike is 15000.
+Rental charge for this bike is 500.
+Rental charge for this bike is 450.
+                       Danshui
+                    Free Bikes
+        License        Mileage          Class       SubTotal
+============================================================
+          NTHU6              3           Lady
+          02DAN            100         Hybrid
+============================================================
+                                                           2
+
+                  Rented Bikes
+        License        Mileage          Class       SubTotal
+============================================================
+          NTHU5             20           Lady
+============================================================
+                                                           1
+
+         Net    Electric        Lady        Road      Hybrid
+============================================================
+           0           0           2           0           1
+============================================================
+
+                       Jingmei
+                    Free Bikes
+        License        Mileage          Class       SubTotal
+============================================================
+          00004            120           Lady
+          00005             15           Lady
+          NTHU4             30           Lady
+          NTHU3              1           Lady
+          00000              7           Lady
+          NTHU2              0           Lady
+          01GON            107         Hybrid
+          01GUT            107         Hybrid
+          01LIU            107         Hybrid
+          01XIM            107         Hybrid
+          01XIN            107         Hybrid
+          01ZHO            107         Hybrid
+          01SHI            107         Hybrid
+          01BEI            107         Hybrid
+          01HON            107         Hybrid
+          01DAN            107         Hybrid
+============================================================
+                                                          16
+
+                  Rented Bikes
+        License        Mileage          Class       SubTotal
+============================================================
+============================================================
+                                                           0
+
+         Net    Electric        Lady        Road      Hybrid
+============================================================
+        2700           0           6           0          10
+============================================================
+
+                         Xinpu
+                    Free Bikes
+        License        Mileage          Class       SubTotal
+============================================================
+          NTHU0             59           Lady
+          00002             17           Lady
+          00001             18           Lady
+          02XIN            100         Hybrid
+============================================================
+                                                           4
+
+                  Rented Bikes
+        License        Mileage          Class       SubTotal
+============================================================
+============================================================
+                                                           0
+
+         Net    Electric        Lady        Road      Hybrid
+============================================================
+           0           0           3           0           1
+============================================================
+
+                      Gongguan
+                    Free Bikes
+        License        Mileage          Class       SubTotal
+============================================================
+          02GON            100         Hybrid
+============================================================
+                                                           1
+
+                  Rented Bikes
+        License        Mileage          Class       SubTotal
+============================================================
+============================================================
+                                                           0
+
+         Net    Electric        Lady        Road      Hybrid
+============================================================
+           0           0           0           0           1
+============================================================
+
+                        Guting
+                    Free Bikes
+        License        Mileage          Class       SubTotal
+============================================================
+          C09CC            559           Road
+          C06CC            556           Road
+          C08CC            558           Road
+          C04CC              4           Road
+          C03CC              3           Road
+          C02CC              2           Road
+          C07CC            557           Road
+          C01CC              1           Road
+          02GUT            100         Hybrid
+============================================================
+                                                           9
+
+                  Rented Bikes
+        License        Mileage          Class       SubTotal
+============================================================
+          C05CC              5           Road
+============================================================
+                                                           1
+
+         Net    Electric        Lady        Road      Hybrid
+============================================================
+       44000           0           0           9           1
+============================================================
+
+                    Liuzhangli
+                    Free Bikes
+        License        Mileage          Class       SubTotal
+============================================================
+          A09AA              9           Road
+          A08AA              8           Road
+          A06AA              6           Road
+          A07AA              7           Road
+          A03AA              3           Road
+          A02AA              2           Road
+          A05AA              5           Road
+          A01AA              1           Road
+          A04AA              4           Road
+          02LIU            100         Hybrid
+============================================================
+                                                          10
+
+                  Rented Bikes
+        License        Mileage          Class       SubTotal
+============================================================
+============================================================
+                                                           0
+
+         Net    Electric        Lady        Road      Hybrid
+============================================================
+           0           0           0           9           1
+============================================================
+
+                 Taipei U-bike
+                    Free Bikes
+     License     Mileage       Class     Station       Total
+============================================================
+       NTHU6           3        Lady     Danshui
+       02DAN         100      Hybrid     Danshui
+       02HON         100      Hybrid  Hongshulin
+       02BEI         100      Hybrid      Beitou
+       02SHI         100      Hybrid      Shilin
+       02ZHO         100      Hybrid   Zhongshan
+       NTHU0          59        Lady       Xinpu
+       00002          17        Lady       Xinpu
+       00001          18        Lady       Xinpu
+       02XIN         100      Hybrid       Xinpu
+       02XIM         100      Hybrid       Ximen
+       A09AA           9        Road  Liuzhangli
+       A08AA           8        Road  Liuzhangli
+       A06AA           6        Road  Liuzhangli
+       A07AA           7        Road  Liuzhangli
+       A03AA           3        Road  Liuzhangli
+       A02AA           2        Road  Liuzhangli
+       A05AA           5        Road  Liuzhangli
+       A01AA           1        Road  Liuzhangli
+       A04AA           4        Road  Liuzhangli
+       02LIU         100      Hybrid  Liuzhangli
+       B09BB         759        Road       Muzha
+       B06BB         756        Road       Muzha
+       B08BB         758        Road       Muzha
+       B04BB           4        Road       Muzha
+       B03BB           3        Road       Muzha
+       B02BB           2        Road       Muzha
+       B07BB         757        Road       Muzha
+       B01BB           1        Road       Muzha
+       C09CC         559        Road      Guting
+       C06CC         556        Road      Guting
+       C08CC         558        Road      Guting
+       C04CC           4        Road      Guting
+       C03CC           3        Road      Guting
+       C02CC           2        Road      Guting
+       C07CC         557        Road      Guting
+       C01CC           1        Road      Guting
+       02GUT         100      Hybrid      Guting
+       02GON         100      Hybrid    Gongguan
+       00004         120        Lady     Jingmei
+       00005          15        Lady     Jingmei
+       NTHU4          30        Lady     Jingmei
+       NTHU3           1        Lady     Jingmei
+       00000           7        Lady     Jingmei
+       NTHU2           0        Lady     Jingmei
+       01GON         107      Hybrid     Jingmei
+       01GUT         107      Hybrid     Jingmei
+       01LIU         107      Hybrid     Jingmei
+       01XIM         107      Hybrid     Jingmei
+       01XIN         107      Hybrid     Jingmei
+       01ZHO         107      Hybrid     Jingmei
+       01SHI         107      Hybrid     Jingmei
+       01BEI         107      Hybrid     Jingmei
+       01HON         107      Hybrid     Jingmei
+       01DAN         107      Hybrid     Jingmei
+============================================================
+                                                          55
+
+                  Rented Bikes
+     License     Mileage       Class     Station       Total
+============================================================
+       NTHU5          20        Lady     Danshui
+       B05BB           5        Road       Muzha
+       C05CC           5        Road      Guting
+============================================================
+                                                           3
+
+         Net    Electric        Lady        Road      Hybrid
+============================================================
+      106700           0          11          27          20
+============================================================
+
+Danshui
+===============
+Electric 0
+Lady 0
+Road 0
+Hybrid 0
+===============
+Total 0
+
+Hash Table
+0 00000->00004->00001->00005->00002
+39 01BEI
+41 01DAN
+44 01GON
+45 01HON->01GUT
+49 01LIU
+55 01SHI
+60 A01AA->A02AA->01XIN->01XIM
+61 A03AA
+62 A04AA->01ZHO
+63 A05AA
+64 A06AA
+65 A07AA
+66 A08AA
+67 A09AA
+68 02BEI
+70 02DAN
+71 C01CC
+72 C02CC
+73 C03CC->02GON
+74 C04CC->02HON->02GUT
+75 C05CC
+76 C06CC
+77 C07CC
+78 C08CC->02LIU
+79 C09CC
+84 02SHI
+89 02XIN->02XIM
+91 02ZHO
+99 NTHU0->NTHU2->NTHU3->NTHU4->NTHU5->NTHU6
+193 B01BB
+194 B02BB
+195 B03BB
+196 B04BB
+197 B05BB
+198 B06BB
+199 B07BB
+200 B08BB
+201 B09BB
+                 Taipei U-bike
+                    Free Bikes
+     License     Mileage       Class     Station       Total
+============================================================
+       NTHU6           3        Lady     Danshui
+       02DAN         100      Hybrid     Danshui
+       02HON         100      Hybrid  Hongshulin
+       02BEI         100      Hybrid      Beitou
+       02SHI         100      Hybrid      Shilin
+       02ZHO         100      Hybrid   Zhongshan
+       NTHU0          59        Lady       Xinpu
+       00002          17        Lady       Xinpu
+       00001          18        Lady       Xinpu
+       02XIN         100      Hybrid       Xinpu
+       02XIM         100      Hybrid       Ximen
+       A09AA           9        Road  Liuzhangli
+       A08AA           8        Road  Liuzhangli
+       A06AA           6        Road  Liuzhangli
+       A07AA           7        Road  Liuzhangli
+       A03AA           3        Road  Liuzhangli
+       A02AA           2        Road  Liuzhangli
+       A05AA           5        Road  Liuzhangli
+       A01AA           1        Road  Liuzhangli
+       A04AA           4        Road  Liuzhangli
+       02LIU         100      Hybrid  Liuzhangli
+       B09BB         759        Road       Muzha
+       B06BB         756        Road       Muzha
+       B08BB         758        Road       Muzha
+       B04BB           4        Road       Muzha
+       B03BB           3        Road       Muzha
+       B02BB           2        Road       Muzha
+       B07BB         757        Road       Muzha
+       B01BB           1        Road       Muzha
+       C09CC         559        Road      Guting
+       C06CC         556        Road      Guting
+       C08CC         558        Road      Guting
+       C04CC           4        Road      Guting
+       C03CC           3        Road      Guting
+       C02CC           2        Road      Guting
+       C07CC         557        Road      Guting
+       C01CC           1        Road      Guting
+       02GUT         100      Hybrid      Guting
+       02GON         100      Hybrid    Gongguan
+       00004         120        Lady     Jingmei
+       00005          15        Lady     Jingmei
+       NTHU4          30        Lady     Jingmei
+       NTHU3           1        Lady     Jingmei
+       00000           7        Lady     Jingmei
+       NTHU2           0        Lady     Jingmei
+       01GON         107      Hybrid     Jingmei
+       01GUT         107      Hybrid     Jingmei
+       01LIU         107      Hybrid     Jingmei
+       01XIM         107      Hybrid     Jingmei
+       01XIN         107      Hybrid     Jingmei
+       01ZHO         107      Hybrid     Jingmei
+       01SHI         107      Hybrid     Jingmei
+       01BEI         107      Hybrid     Jingmei
+       01HON         107      Hybrid     Jingmei
+       01DAN         107      Hybrid     Jingmei
+============================================================
+                                                          55
+
+                  Rented Bikes
+     License     Mileage       Class     Station       Total
+============================================================
+       NTHU5          20        Lady     Danshui
+       B05BB           5        Road       Muzha
+       C05CC           5        Road      Guting
+============================================================
+                                                           3
+
+         Net    Electric        Lady        Road      Hybrid
+============================================================
+      106700           0          11          27          20
+============================================================
+

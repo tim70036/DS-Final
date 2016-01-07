@@ -1,0 +1,17 @@
+[ Net ]
+0
+
+[ Hash Table ]
+  99: NTHU2->NTHU3->NTHU4->NTHU5->NTHU6
+
+[ Danshui - Lady Heap ]
+       NTHU5           1
+
+[ Liuzhangli - Lady Heap ]
+       NTHU6           3
+
+[ Jingmei - Lady Heap ]
+       NTHU4          15
+       NTHU2           0
+       NTHU3           1
+
