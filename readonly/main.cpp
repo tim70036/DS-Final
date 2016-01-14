@@ -12,13 +12,13 @@ static void basicTest
     try
     {
         UBikeSystemIMP ubSystem;
-        
+
         //init the distance table
         ubSystem.InitDistTable(MapFile);
-        
+
         //parse the transaction file
         std::ifstream ifs(TransFile);
-        
+
         //process each command
         std::string trs;
         while( ifs >> trs )
@@ -56,9 +56,9 @@ static void basicTest
                 ubSystem.Trans( station, license );
             }
         }
-        
+
         ifs.close();
-            
+
         //read the answer texts
         std::ifstream ifsAns( AnsFile );
         std::string ansText( (std::istreambuf_iterator<char>(ifsAns)),
@@ -71,7 +71,7 @@ static void basicTest
 
         //release the allocated memory
         ubSystem.ShutDown();
-        
+
         //compare the results
         if( oss.str() == ansText )
             std::cout << "PASS!" << std::endl;
@@ -86,25 +86,25 @@ static void basicTest
 
 int main(int argc, char *argv[])
 {
-/*
+
     std::cout << "test case 1: ";
     basicTest( "tc1/testCase", "tc1/testMap", "tc1/output" );
-    
+
     std::cout << "test case 2: ";
     basicTest( "tc2/testCase", "tc2/testMap", "tc2/output" );
-    
+
     std::cout << "test case 3: ";
     basicTest( "tc3/testCase", "tc3/testMap", "tc3/output" );
 
-*/
 
-    
+
+/*
     UBikeSystemIMP ubSystem;
-    
+
     //init the distance table
-    ubSystem.InitDistTable("TC1_basic/testMap");
-    
-    
+    ubSystem.InitDistTable("tc1/testMap");
+
+
     std::string trs;
     while( cin >> trs )
     {
@@ -140,34 +140,34 @@ int main(int argc, char *argv[])
             cin >> station >> license;
             ubSystem.Trans( station, license );
         }
-        
+
         else if ( trs == "q")   break;
         else if( trs == "s")    cout <<ubSystem.toString() << endl;
     }
     cout << ubSystem.toString() << endl;
 
-    
-    
-    
+*/
 
-    
-    
+
+
+
+
 
 // HIDDEN-TEST-CASES
 //=============================================================
-//    std::cout << "test case 4: ";
-//    basicTest( "tc4/testCase", "tc4/testMap", "tc4/output" );
-//    
-//    std::cout << "test case 5: ";
-//    basicTest( "tc5/testCase", "tc5/testMap", "tc5/output" );
-//    
+    std::cout << "test case 4: ";
+    basicTest( "tc4/testCase", "tc4/testMap", "tc4/output" );
+//
+    std::cout << "test case 5: ";
+    basicTest( "tc5/testCase", "tc5/testMap", "tc5/output" );
+//
 //    std::cout << "test case 6: ";
 //    basicTest( "tc6/testCase", "tc6/testMap", "tc6/output" );
 //
 //    std::cout << "test case 7: ";
 //    basicTest( "tc7/testCase", "tc7/testMap", "tc7/output" );
 //=============================================================
-    
+
 	return 0;
 }
 

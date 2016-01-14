@@ -17,22 +17,24 @@ void UBikeHashTableIMP::addUBikePtr(UBike* ubptr)
 UBike* UBikeHashTableIMP::findUBikePtr(std::string license, bool toRemove)
 {
     int index = calcLicense(license);
-    
-    
+
+
     // This List in hash table is empty?, no such buck exist
     //if(this->at(index).empty()) return NULL;
-    
+
     auto i = (this->at(index)).begin();
-    
+
     for( ; i != (this->at(index)).end() ; i++)
-        if((*i)->license == license)    break;
-    
+    {
+      if((*i)->license == license)
+      {
+          if(toRemove)    (this->at(index)).remove(*i);
+          return *i;
+      }
+    }
+
     // Not found
-    if(i == (this->at(index)).end())    return NULL;
-    
-    // Remove?
-    if(toRemove)    (this->at(index)).remove(*i);
-    return *i;
+    return NULL;
 }
 
 int UBikeHashTableIMP::calcLicense(string x)

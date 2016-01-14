@@ -1,0 +1,21 @@
+[ Net ]
+0
+
+[ Hash Table ]
+   0: 00002->00003->00005
+  34: 0A002->0A003->0A005
+  45: 0ABC2->0ABC3->0ABC5
+
+[ Danshui - Lady Heap ]
+       0ABC5          17
+       0A005          11
+       00005           5
+
+[ Jingmei - Electric Heap ]
+       0ABC3          15
+       0ABC2          14
+       0A003           9
+       00002           2
+       0A002           8
+       00003           3
+
